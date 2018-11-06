@@ -10,6 +10,8 @@ Here are some third-party tools built using these APIs, make sure to ask in our 
 
 - [Gods Unchained Info](https://godsunchained.info)
 - [GUDecks](https://gudecks.com)
+- [Cards of Gods](https://cardsofgods.com)
+- [GUCardPrices](https://gucardprices.com)
 
 ## General
 
